@@ -1,0 +1,11 @@
+/conf.d
+/modules-available
+/modules-enabled
+/sites-available
+/sites-enabled
+/snippets
+koi-utf
+koi-win
+uwsgi_params
+win-utf
+
